@@ -53,14 +53,6 @@ With 9+ years of experience designing, developing, and leading high-impact mobil
 
 ---
 
-### 📂 Featured Projects
-- **[E-commerce Mobile Platform](#)** – Cross-platform app with real-time inventory sync & AI-driven recommendations.  
-- **[Logistics Tracking App](#)** – Optimized route calculation & live tracking for 10k+ daily deliveries.  
-- **[Social Impact App](#)** – Community engagement platform for 500k+ active users.  
-- **[AI Chatbot Integration](#)** – Implemented GPT-powered assistant in a production mobile app.
-
----
-
 ### 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssrirams&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
