@@ -7,6 +7,14 @@
 
 - 🔭 I’m currently working on **SmartBizz By Amazon**
 
+- 🌱 I’m currently learning **Python for AI (NumPy, Pandas, Matplotlib), Machine Learning Fundamentals (regression, classification, clustering), Deep Learning (TensorFlow / PyTorch), NLP (transformers, sentiment analysis, chatbots), Generative AI (LLMs, prompt engineering, fine-tuning models), AI + App Integration (LangChain, OpenAI API, Hugging Face)**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ssrirams](https://github.com/ssrirams)
+
+- 💬 Ask me about **React Native, React, Android, Ios, Redux, JavaScript, TypeScript**
+
+- 📫 How to reach me **sriram.subramani.career@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sriram-subramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sriram-subramani" height="30" width="40" /></a>
